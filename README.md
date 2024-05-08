@@ -1,12 +1,13 @@
 # Designer實戰-1
 ### 說明
-- 使用工具:Microsoft Compliot 的Designer功能(AI生成圖片)
+- AI生成工具:Microsoft Compilot 的Designer功能(AI生成圖片)
 - 輸入精確指令並AI生成圖片
-### 工具使用說明:
-- Step 1.先登入微軟帳號
-- Step 2.
+### AI生成工具使用說明:
+- Step 1.搜尋Microsoft Compilot Designer
 - ![圖片1](https://github.com/shawnhuang125/GenAI/assets/144863384/d5d771d1-df7e-483e-bd01-aa8df61682a5)
-- Step 3.
+- Step 2.登入微軟帳號
+- ![image](https://github.com/shawnhuang125/GenAI/assets/144863384/f58975c1-d132-4011-af1e-267c04af6b53)
+- Step 3.開始輸入指令
 - ![圖片2](https://github.com/shawnhuang125/GenAI/assets/144863384/ba0fa96b-3ec7-477b-be7c-f150f53df38d)
 ### 實戰範例一
 - **主題章節**:第一章
