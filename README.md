@@ -1,4 +1,4 @@
-![螢幕擷取畫面 2024-05-08 142658](https://github.com/shawnhuang125/GenAI/assets/144863384/4028a921-6eee-45cd-a8c9-5ea1cd0c3ef5)![螢幕擷取畫面 2024-05-08 134645](https://github.com/shawnhuang125/GenAI/assets/144863384/d87215e3-9a2a-41bb-9745-392f25c04375)# Designer實戰一
+# Designer實戰一
 ### 實戰範例一
 - **主題章節**:第一章
 - **生成主題**:建築渲染
