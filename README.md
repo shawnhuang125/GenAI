@@ -2,6 +2,12 @@
 ### 說明
 - 使用工具:Microsoft Compliot 的Designer功能(AI生成圖片)
 - 輸入精確指令並AI生成圖片
+### 工具使用說明:
+- Step 1.先登入微軟帳號
+- Step 2.
+- ![圖片1](https://github.com/shawnhuang125/GenAI/assets/144863384/d5d771d1-df7e-483e-bd01-aa8df61682a5)
+- Step 3.
+- ![圖片2](https://github.com/shawnhuang125/GenAI/assets/144863384/ba0fa96b-3ec7-477b-be7c-f150f53df38d)
 ### 實戰範例一
 - **主題章節**:第一章
 - **生成主題**:建築渲染
