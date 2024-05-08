@@ -4,7 +4,8 @@
 - **生成主題**:建築渲染
 - **生成魔法指令**:Architecture visualization, clean and simple lines with a focus on functionality and efficiency, natural materials such as wood or stone, in a modern and sleek style --ar16:9 --v5.1
 - **生成之效果圖**:
-![螢幕擷取畫面 2024-05-08 133507.png…]()
+![螢幕擷取畫面 2024-05-08 133507](https://github.com/shawnhuang125/GenAI/assets/144863384/0b62c152-561b-4d45-a6f9-f32599556c75)
+
 
 ### 實戰範例二
 - **主題章節**:第一章
