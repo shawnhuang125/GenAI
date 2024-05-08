@@ -5,33 +5,29 @@
 ### AI生成工具使用說明:
 - Step 1.搜尋Microsoft Compilot Designer
 - ![圖片1](https://github.com/shawnhuang125/GenAI/assets/144863384/d5d771d1-df7e-483e-bd01-aa8df61682a5)
-- Step 2.登入微軟帳號
-- ![image](https://github.com/shawnhuang125/GenAI/assets/144863384/f4a5b29e-6126-4d1c-84df-15388bb7fab9)
+- Step 2.註冊/登入微軟帳號
+- ![Uploading 圖片3.png…]()
 - Step 3.開始輸入指令
 - ![圖片2](https://github.com/shawnhuang125/GenAI/assets/144863384/ba0fa96b-3ec7-477b-be7c-f150f53df38d)
+  
 ### 實戰範例一
 - **主題章節**:第一章
 - **生成主題**:建築渲染
 - **生成魔法指令**:Architecture visualization, clean and simple lines with a focus on functionality and efficiency, natural materials such as wood or stone, in a modern and sleek style --ar16:9 --v5.1
 - **生成之效果圖(四張)**:
 ![螢幕擷取畫面 2024-05-08 133507](https://github.com/shawnhuang125/GenAI/assets/144863384/0b62c152-561b-4d45-a6f9-f32599556c75)
-
-
 ### 實戰範例二
 - **主題章節**:第一章
 - **生成主題**:室內渲染
 - **生成魔法指令**:Corona render, warm and cozy atmosphere living room, wooden furniture, comfortable sofa, small coffee table --ar 16:9 --v 5.1
 - **生成之效果圖(四張)**:
 - ![螢幕擷取畫面 2024-05-08 134232](https://github.com/shawnhuang125/GenAI/assets/144863384/6e4d2de5-6333-4228-9328-d5583d605fba)
-
-
 ### 實戰範例三
 - **主題章節**:第二章
 - **生成主題**:立面透視
 - **生成魔法指令**:Elevation perspective, ancient temple ruins, overgrown with lush greenery, moss-covered stone steps leading up to the entrance --ar 1:2 --v 5.1
 - **生成之效果圖(四張)**:
 - ![螢幕擷取畫面 2024-05-08 134645](https://github.com/shawnhuang125/GenAI/assets/144863384/5e3a18dc-3c29-4d65-8580-73d5830dc815)
-
 ### 實戰範例四
 - **主題章節**:第二章
 - **生成主題**:大特寫
@@ -56,7 +52,6 @@
 - **生成魔法指令**:Natural green, lush greenery, verdant leaves, sunlight, filtering through the canopy, a babbling brook running through the scene, moss-covered rocks lining the stream --ar 16:9 --v 5.1
 - **生成之效果圖(四張)**:
 - ![螢幕擷取畫面 2024-05-08 141118](https://github.com/shawnhuang125/GenAI/assets/144863384/2250b031-bc53-405a-ac95-bd822e560da0)
-
 ### 實戰範例八
 - **主題章節**:第四章
 - **生成主題**:極簡黑白色系
