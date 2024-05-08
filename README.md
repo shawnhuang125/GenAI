@@ -1,4 +1,7 @@
-# Designer實戰一
+# Designer實戰-1
+###說明
+- 工具:Microsoft Compliot 裡的Designer(AI生成圖片功能)
+- 輸入精確指令AI生成圖片
 ### 實戰範例一
 - **主題章節**:第一章
 - **生成主題**:建築渲染
