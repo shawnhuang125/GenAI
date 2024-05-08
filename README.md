@@ -6,7 +6,7 @@
 - Step 1.搜尋Microsoft Compilot Designer
 - ![圖片1](https://github.com/shawnhuang125/GenAI/assets/144863384/d5d771d1-df7e-483e-bd01-aa8df61682a5)
 - Step 2.登入微軟帳號
-- ![image](https://github.com/shawnhuang125/GenAI/assets/144863384/f58975c1-d132-4011-af1e-267c04af6b53)
+- ![image](https://github.com/shawnhuang125/GenAI/assets/144863384/f4a5b29e-6126-4d1c-84df-15388bb7fab9)
 - Step 3.開始輸入指令
 - ![圖片2](https://github.com/shawnhuang125/GenAI/assets/144863384/ba0fa96b-3ec7-477b-be7c-f150f53df38d)
 ### 實戰範例一
