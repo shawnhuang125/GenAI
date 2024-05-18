@@ -12,7 +12,8 @@
 ### 實戰範例二
 - **主題章節**:第一章
 - **生成主題**:室內渲染
-- **生成魔法指令**:Corona render, warm and cozy atmosphere living room, wooden furniture, comfortable sofa, small coffee table --ar 16:9 --v 5.1
+- **生成魔法指令**:
+***Corona render, warm and cozy atmosphere living room, wooden furniture, comfortable sofa, small coffee table --ar 16:9 --v 5.1
 - **生成之效果圖(四張)**:
 - ![螢幕擷取畫面 2024-05-08 134232](https://github.com/shawnhuang125/GenAI/assets/144863384/6e4d2de5-6333-4228-9328-d5583d605fba)
 ### 實戰範例三
