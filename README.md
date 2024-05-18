@@ -1,7 +1,7 @@
 # Designer實戰-1
 ### 說明
 - AI生成工具:Microsoft Compilot 的Designer功能
-- 輸入精確指令並AI生成圖片
+###### 輸入精確指令並AI生成圖片
 
 ### 實戰範例一
 - **主題章節**:第一章
