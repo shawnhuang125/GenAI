@@ -37,7 +37,8 @@
 ### 實戰範例六
 - **主題章節**:第三章
 - **生成主題**:立體主義
-- **生成魔法指令**:Cubism, distorted features and proportions,vibrant colors and bold brushstrokes, multiple perspectives and viewpoints, influnced by African masks and Picasso's style, on display in a retro art gallery with dim lighting and vintage furniture --ar 16:9 --v 5.1
+- **生成魔法指令**:
+- ***Cubism, distorted features and proportions,vibrant colors and bold brushstrokes, multiple perspectives and viewpoints, influnced by African masks and Picasso's style, on display in a retro art gallery with dim lighting and vintage furniture --ar 16:9 --v 5.1
 - **生成之效果圖(四張)**:
 - ![螢幕擷取畫面 2024-05-08 140325](https://github.com/shawnhuang125/GenAI/assets/144863384/aededfd6-590c-48a3-892c-80b277c4f5cb)
 ### 實戰範例七
